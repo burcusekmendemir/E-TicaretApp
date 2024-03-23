@@ -1,15 +1,15 @@
-## E-Ticaret Uygulamasý
+# E-Ticaret Uygulamasý
 
     Bu proje ile, bir maðaza müþterileri için ürünlerin sergilendiði ve kullanýcýlarýn kendi resimlerini yükleyerek 
     ürünleri sanal olarak üzerlerinde deneyimleyebilecekleri bir sistem geliþtirilmesini amaçlamaktadýr. 
-    Temel olarak, Spring Boot kullanýlarak geliþtirilecek bir back-end sistemi oluþturulacaktýr.
+    Temel olarak, Spring Boot kullanýlarak geliþtirilecek bir back-end sistemi oluþturulmuþtur.
 
-# Projenin Temel Özellikleri:
+## Projenin Temel Özellikleri:
 
-    Ürün Yönetimi: Maðaza tarafýndan sunulan ürünlerin yönetimi saðlanacaktýr. Her ürün için isim, açýklama, fiyat ve stok bilgileri gibi temel özellikler bulunacaktýr.
-                   Bu bilgiler veritabanýnda saklanacak ve API aracýlýðýyla eriþilebilecektir.
+    Ürün Yönetimi: Maðaza tarafýndan sunulan ürünlerin yönetimi saðlanýr. Her ürün için isim, açýklama, fiyat ve stok bilgileri gibi temel özellikler bulunur.
+                   Bu bilgiler veritabanýnda saklanýr ve API aracýlýðýyla eriþilir.
 
-    Kullanýcý Yönetimi: Kullanýcýlarýn kaydolmasý, giriþ yapmasý ve profillerini yönetmesi saðlanacaktýr. Kullanýcýlar, kendi profil fotoðraflarýný yükleyebileceklerdir.
+    Kullanýcý Yönetimi: Kullanýcýlarýn kaydolmasý, giriþ yapmasý ve profillerini yönetmesi saðlanýr.
 
     Resim Yükleme: Kullanýcýlar, kendi resimlerini yükleyebilecek ve bu resimlerin üzerine sanal olarak maðazanýn ürünlerini giydirerek deneyimleyebileceklerdir. 
                    Bu iþlem için gerekli endpointler saðlanacaktýr.
